@@ -34,3 +34,11 @@ comparison of three models:
 ![image](https://user-images.githubusercontent.com/71943623/133467779-fd178e8b-eec5-4caf-a570-4e91ead83b70.png)
 
 
+from the work we found improvements to reduce churn 
+
+1. Use incentives to create non-cash mobile rewards programs
+2. Constantly answer customer feedback on all channels. Especially social media.
+3. Anticipate churn by investing in better technology.
+4. Resolving Customer Service Issues.
+5. Managing Customer Lifetime Value.
+6. Big Data Analytics Platforms for Reducing Churn.
