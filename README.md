@@ -24,7 +24,11 @@ SVM:
 2. The goal of an SVM is to take groups of observations and construct boundaries to predict which group future observations belong to based on their measurements.
 3. SVMs can take almost any shape (including linear, radial, and polynomial, among others), and are generally flexible enough to be used in almost any classification endeavor that the user chooses to undertake.
 
+
+
 comparison of three models:
+
+
 ![image](https://user-images.githubusercontent.com/71943623/133467677-00877b17-4d84-4f01-9160-a5a4da5fcf4e.png)
 ![image](https://user-images.githubusercontent.com/71943623/133467746-7ab0e052-eb26-49c0-aa49-eb1fb1088fbd.png)
 ![image](https://user-images.githubusercontent.com/71943623/133467779-fd178e8b-eec5-4caf-a570-4e91ead83b70.png)
